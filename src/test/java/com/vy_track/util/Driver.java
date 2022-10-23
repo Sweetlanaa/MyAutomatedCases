@@ -1,5 +1,6 @@
-package com.crm.util;
+package com.vy_track.util;
 
+import com.crm.util.ConfigurationReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
